@@ -1,5 +1,5 @@
 # DimReduction
-Ongoing Tutorial sets for dimensionality reduction (+ related topics) in matlab live scripts with some actual datasets. <br>
+Ongoing tutorial sets for dimensionality reduction (+ related topics) in matlab live scripts with some actual datasets. <br>
 Every detail is in ```letsdoit.mlx```.
 
 ## Unsupervised linear dimensionality reduction
