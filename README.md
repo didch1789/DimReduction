@@ -1,5 +1,7 @@
 # DimReduction
-Ongoing Tutorial sets for Dimensionality Reduction. + Related Topics
+Ongoing Tutorial sets for dimensionality reduction (+ related topics) in matlab live scripts with some actual datasets. 
+
+
 ## Unsupervised linear dimensionality reduction
 - Principal Component Analysis (PCA) $~~~~~~~~~~~~~~~~~~~~~~~~~~~$ DONE
 - Factor Analysis
@@ -15,4 +17,7 @@ Ongoing Tutorial sets for Dimensionality Reduction. + Related Topics
 - Isomap (1)
 ### ※ More in terms of dynamics 
 - Dynamic Mode Decomposition + jPCA $~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ DONE
-- Empirical Dynamic Modelling 
+- Empirical Dynamic Modelling
+
+
+on 25.03.18
