@@ -14,7 +14,7 @@ Every detail is in ```letsdoit.mlx```.
 ## Nonlinear dimensionality reduction
 - t-distributed stochastic neighbor embedding (t-SNE)
 - Locally Linear Embedding (LLE)
-- Isomap (1)
+- Isomap
 ### ※ More in terms of dynamics 
 - Dynamic Mode Decomposition + jPCA $~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ DONE
 - Empirical Dynamic Modelling
